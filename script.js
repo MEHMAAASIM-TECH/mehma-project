@@ -14,3 +14,9 @@ function loginMsg(){
 function goBack(){
     window.history.back();
 }
+function welcome() {
+    alert("Welcome to Local Tourism Website!");
+}
+function submitMsg() {
+    alert("Your message has been submitted successfully!");
+}
