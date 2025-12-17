@@ -1,0 +1,79 @@
+body{
+    margin:0;
+    font-family: Arial;
+    background:#f4f4f4;
+}
+
+/* header */
+.header{
+    background:#4caf50;
+    color:white;
+    text-align:center;
+    padding:30px;
+}
+
+/* navbar */
+.navbar{
+    background:#333;
+    text-align:center;
+    padding:10px;
+}
+
+.navbar a{
+    color:white;
+    margin:10px;
+    text-decoration:none;
+}
+
+/* sections */
+.section{
+    padding:30px;
+    background:white;
+    margin:20px;
+}
+
+/* buttons */
+.btn{
+    padding:10px 15px;
+    background:#ff9800;
+    border:none;
+    color:white;
+    cursor:pointer;
+}
+
+/* cards */
+.cards{
+    display:flex;
+    gap:15px;
+}
+
+.card{
+    border:1px solid #ccc;
+    padding:15px;
+    width:30%;
+    text-align:center;
+}
+
+/* gallery images */
+img{
+    width:200px;
+    margin:10px;
+}
+
+/* login box */
+.login-box{
+    width:300px;
+    margin:100px auto;
+    padding:20px;
+    background:white;
+    text-align:center;
+    border:1px solid #ccc;
+}
+
+/* footer */
+.footer{
+    background:#333;
+    color:white;
+    text-align:center;
+    padding:10px;
+}
